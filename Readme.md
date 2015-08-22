@@ -4,4 +4,4 @@ Project specific code will be in their folder while libraries or code snippets w
 
 Please update the appropriate readme when updated.
 
-![Node MCU V1.0 Pinout](../images/esp_nodemcu_pinout.png)
+![Node MCU V1.0 Pinout](/images/esp_nodemcu_pinout.png)
